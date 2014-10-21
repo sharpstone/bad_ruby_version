@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-ruby '5.v.3'
+ruby '1.7.0'
